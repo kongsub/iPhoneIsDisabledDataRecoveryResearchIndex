@@ -51,4 +51,4 @@ checkra1n (https://checkra.in) 0.11.0 beta can jailbreak 12.0 - 13.7 . it unlock
 [Restart Springboard without locking screen?]: https://stackoverflow.com/questions/1764492/restart-springboard-without-locking-screen/2021332
 [Data Storage on iOS]: https://mobile-security.gitbook.io/mobile-security-testing-guide/ios-testing-guide/0x06d-testing-data-storage
 [Apple Secure Key Store Cryptographic Module, v1.0 FIPS 140-2 Non-Proprietary Security Policy]: https://csrc.nist.gov/CSRC/media/projects/cryptographic-module-validation-program/documents/security-policies/140sp3223.pdf
-[Reverse-Engineering the iPhone X Home Indicator Color] https://medium.com/@nathangitter/reverse-engineering-the-iphone-x-home-indicator-color-a4c112f84d34
+[Reverse-Engineering the iPhone X Home Indicator Color]: https://medium.com/@nathangitter/reverse-engineering-the-iphone-x-home-indicator-color-a4c112f84d34
