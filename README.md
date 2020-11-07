@@ -23,6 +23,8 @@ checkra1n (https://checkra.in) 0.11.0 beta can jailbreak 12.0 - 13.7 . it unlock
 ### Jailbreak core
 + [ipwndfu] 
 + [checkra1n]
++ [Fugu]
 
 [ipwndfu]: https://github.com/axi0mX/ipwndfu
 [checkra1n]: https://github.com/checkra1n/
+[Fugu]: https://github.com/LinusHenze/Fugu
