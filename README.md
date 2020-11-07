@@ -45,6 +45,8 @@ checkra1n (https://checkra.in) 0.11.0 beta can jailbreak 12.0 - 13.7 . it unlock
 + [darwin-XNU]
 #### Boot
 + [\*OS:iBoot]
+### File System
++[APFS FUSE Driver for Linux]
 ### iOS 12
 + https://github.com/ichitaso/iOS-12.0-12.1.2-SpringBoard-Headers
 + https://github.com/nst/iOS-Runtime-Headers
@@ -70,3 +72,4 @@ checkra1n (https://checkra.in) 0.11.0 beta can jailbreak 12.0 - 13.7 . it unlock
 [Undecimus]: https://github.com/pwn20wndstuff/Undecimus
 [\*OS:iBoot]: http://newosxbook.com/bonus/iBoot.pdf
 [darwin-XNU]: https://github.com/apple/darwin-xnu
+[APFS FUSE Driver for Linux]: https://github.com/sgan81/apfs-fuse
