@@ -1,4 +1,4 @@
-# For all whose iPhone "is disabled,Connect to iTunes" Locked and want recover data
+# Collect information for all whose iPhone "is disabled,Connect to iTunes" Locked and want recover data
 
 # Introduction : The extreme insecure in the extreme secure  
 + iPhone have special mechanism design "**permanent lock data if 10 times incorrect passcode attempt**" and **SEP** (Secure Enclave Processor) to make iPhone more **secure**.  
