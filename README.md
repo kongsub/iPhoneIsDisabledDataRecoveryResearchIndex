@@ -24,7 +24,11 @@ checkra1n (https://checkra.in) 0.11.0 beta can jailbreak 12.0 - 13.7 . it unlock
 + [ipwndfu] 
 + [checkra1n]
 + [Fugu]
+## Understanding iOS
++ PDF: [Hacking and Securing iOS Applications]
+
 
 [ipwndfu]: https://github.com/axi0mX/ipwndfu
 [checkra1n]: https://github.com/checkra1n/
 [Fugu]: https://github.com/LinusHenze/Fugu
+[Hacking and Securing iOS Applications]: http://index-of.es/Hack/Oreilly.Hacking.and.Securing.iOS.Applications.Jan.2012.pdf
