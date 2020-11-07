@@ -44,6 +44,10 @@ checkra1n (https://checkra.in) 0.11.0 beta can jailbreak 12.0 - 13.7 . it unlock
 + https://github.com/ichitaso/iOS-12.0-12.1.2-SpringBoard-Headers
 + https://github.com/nst/iOS-Runtime-Headers
 
+## Debug
+### Hardware
+[Debugging an iPhone with Bonobo JTAG cable + OpenOCD + GDB demoted by checkm8]
+
 
 [ipwndfu]: https://github.com/axi0mX/ipwndfu
 [checkra1n]: https://github.com/checkra1n/
@@ -57,3 +61,4 @@ checkra1n (https://checkra.in) 0.11.0 beta can jailbreak 12.0 - 13.7 . it unlock
 [Apple Secure Key Store Cryptographic Module, v1.0 FIPS 140-2 Non-Proprietary Security Policy]: https://csrc.nist.gov/CSRC/media/projects/cryptographic-module-validation-program/documents/security-policies/140sp3223.pdf
 [Reverse-Engineering the iPhone X Home Indicator Color]: https://medium.com/@nathangitter/reverse-engineering-the-iphone-x-home-indicator-color-a4c112f84d34
 [Clutch]: https://github.com/KJCracks/Clutch
+[Debugging an iPhone with Bonobo JTAG cable + OpenOCD + GDB demoted by checkm8]: https://www.youtube.com/watch?v=3zpwSUXlz6A
