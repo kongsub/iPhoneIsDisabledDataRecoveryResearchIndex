@@ -9,3 +9,11 @@
    - c. You record a crime or accident scene , but someone don't want the record exists , just need "10 times attempts".  
 + iPhone's special mechanism design prevent the data **can't be read** in **extreme secure** way , but make the data **can't be delete** in **extreme insecure** .  
 + Then , to know how to recover data on "disabled" iPhone is necessary .  
+
+
+# Problem at present  
+## Only a few "disabled" iOS-device can be re-enable by paid  
+https://checkm8.info provides a paid software for passcode lock screen removal , but it only for 12.3 – 13.x.x and 14.0 .
+
+## Jailbreak "disabled" iPhone by checkra1n , only can read part of files 
+checkra1n (https://checkra.in) 0.11.0 beta can jailbreak 12.0 - 13.7 . it unlocked USB connection and provide SSH connect , but can't access important many files (e.g /private/var/mobile/Media/DCIM/* )
