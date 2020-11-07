@@ -31,7 +31,9 @@ checkra1n (https://checkra.in) 0.11.0 beta can jailbreak 12.0 - 13.7 . it unlock
 + PDF: [Attack Secure Boot of SEP]
 + PDF: [Demystifying the Secure Enclave Processor]
 + PDF: [(Presentation)Demystifying the Secure Enclave Processor]
++ PDF: [Apple Secure Key Store Cryptographic Module, v1.0 FIPS 140-2 Non-Proprietary Security Policy]
 + [Data Storage on iOS]
+
 ### SpringBoard
 + Q&A: [Restart Springboard without locking screen?] (**This method no longer work in iOS 5.x**)
 
@@ -45,4 +47,4 @@ checkra1n (https://checkra.in) 0.11.0 beta can jailbreak 12.0 - 13.7 . it unlock
 [(Presentation)Demystifying the Secure Enclave Processor]: https://www.blackhat.com/docs/us-16/materials/us-16-Mandt-Demystifying-The-Secure-Enclave-Processor.pdf
 [Restart Springboard without locking screen?]: https://stackoverflow.com/questions/1764492/restart-springboard-without-locking-screen/2021332
 [Data Storage on iOS]: https://mobile-security.gitbook.io/mobile-security-testing-guide/ios-testing-guide/0x06d-testing-data-storage
-
+[Apple Secure Key Store Cryptographic Module, v1.0 FIPS 140-2 Non-Proprietary Security Policy]: https://csrc.nist.gov/CSRC/media/projects/cryptographic-module-validation-program/documents/security-policies/140sp3223.pdf
