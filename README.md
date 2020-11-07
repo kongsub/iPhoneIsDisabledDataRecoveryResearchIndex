@@ -1,3 +1,5 @@
+# For all whose iPhone "is disabled,Connect to iTunes" Locked 
+
 # Introduction : The extreme insecure in the extreme secure  
 + iPhone have special mechanism design "**permanent lock data if 10 times incorrect passcode attempt**" and **SEP** (Secure Enclave Processor) to make iPhone more **secure**.  
 + "**permanent lock data if 10 times incorrect passcode attempt**" means the after 10 times incorrect passcode attempted , your data lost forever. There is an option in iOS perference , **erase** it or not . but even you don't enable **erase** , after 10 times incorrect attempts, your iPhone is permanent disabled until you erase all data and reset it by iTunes then restore something from backup. Apple doesn't provide keep data re-enable service official way.  
@@ -35,6 +37,7 @@ checkra1n (https://checkra.in) 0.11.0 beta can jailbreak 12.0 - 13.7 . it unlock
 + [Data Storage on iOS]
 
 ### SpringBoard
++ [Reverse-Engineering the iPhone X Home Indicator Color]
 + Q&A: [Restart Springboard without locking screen?] (**This method no longer work in iOS 5.x**)
 
 
@@ -48,3 +51,4 @@ checkra1n (https://checkra.in) 0.11.0 beta can jailbreak 12.0 - 13.7 . it unlock
 [Restart Springboard without locking screen?]: https://stackoverflow.com/questions/1764492/restart-springboard-without-locking-screen/2021332
 [Data Storage on iOS]: https://mobile-security.gitbook.io/mobile-security-testing-guide/ios-testing-guide/0x06d-testing-data-storage
 [Apple Secure Key Store Cryptographic Module, v1.0 FIPS 140-2 Non-Proprietary Security Policy]: https://csrc.nist.gov/CSRC/media/projects/cryptographic-module-validation-program/documents/security-policies/140sp3223.pdf
+[Reverse-Engineering the iPhone X Home Indicator Color] https://medium.com/@nathangitter/reverse-engineering-the-iphone-x-home-indicator-color-a4c112f84d34
