@@ -14,6 +14,15 @@
 # Problem at present  
 ## Only a few "disabled" iOS-device can be re-enable by paid  
 https://checkm8.info provides a paid software for passcode lock screen removal , but it only for 12.3 – 13.x.x and 14.0 .  
-
+  
 ## Jailbreak "disabled" iPhone by checkra1n , only can read part of files  
-checkra1n (https://checkra.in) 0.11.0 beta can jailbreak 12.0 - 13.7 . it unlocked USB connection and provide SSH connect , but can't access important many files (e.g /private/var/mobile/Media/DCIM/* )
+checkra1n (https://checkra.in) 0.11.0 beta can jailbreak 12.0 - 13.7 . it unlocked USB connection and provide SSH connect , but can't access important many files (e.g /private/var/mobile/Media/DCIM/* )  
+  
+# Resources  
+## Projects  
+### Jailbreak core
++ [ipwndfu] 
++ [checkra1n]
+
+[ipwndfu]: https://github.com/axi0mX/ipwndfu
+[checkra1n]: https://github.com/checkra1n/
