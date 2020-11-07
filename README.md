@@ -25,10 +25,15 @@ checkra1n (https://checkra.in) 0.11.0 beta can jailbreak 12.0 - 13.7 . it unlock
 + [checkra1n]
 + [Fugu]
 ## Understanding iOS
+### Application
 + PDF: [Hacking and Securing iOS Applications]
-
+### SEP
++ PDF: [Attack Secure Boot of SEP]
++ PDF: [Demystifying the Secure Enclave Processor]
 
 [ipwndfu]: https://github.com/axi0mX/ipwndfu
 [checkra1n]: https://github.com/checkra1n/
 [Fugu]: https://github.com/LinusHenze/Fugu
 [Hacking and Securing iOS Applications]: http://index-of.es/Hack/Oreilly.Hacking.and.Securing.iOS.Applications.Jan.2012.pdf
+[Attack Secure Boot of SEP]: https://raw.githubusercontent.com/windknown/presentations/master/Attack_Secure_Boot_of_SEP.pdf
+[Demystifying the Secure Enclave Processor]: http://mista.nu/research/sep-paper.pdf
