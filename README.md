@@ -46,7 +46,7 @@ checkra1n (https://checkra.in) 0.11.0 beta can jailbreak 12.0 - 13.7 . it unlock
 #### Boot
 + [\*OS:iBoot]
 ### File System
-+[APFS FUSE Driver for Linux]
++ [APFS FUSE Driver for Linux]
 ### iOS 12
 + https://github.com/ichitaso/iOS-12.0-12.1.2-SpringBoard-Headers
 + https://github.com/nst/iOS-Runtime-Headers
