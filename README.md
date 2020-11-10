@@ -13,7 +13,9 @@
 + Then , to know how to recover data on "disabled" iPhone is necessary .  
   
 # F**k Apple!The problem may cause by hardware!  
+
 Wrong passcode problem may cause by the design of iPhone and NFC . If so your phone may only fix by hardware.  
+Apple customers may pay much money to get a most secure phone to get their data lost.What a wonderful loop is it?!
   
 > Because Apple really put security is highest priority. The NFC is reporting directly to CPU, the communication of CPU and NFC is encrypted.
 > If the NFC is not responding or somehow it failed to work, the CPU will tell the iOS to protect all the data by not letting anyone access the iOS.  
