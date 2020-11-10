@@ -12,6 +12,14 @@
 + iPhone's special mechanism design prevent the data **can't be read** in **extreme secure** way , but make the data **can't be delete** in **extreme insecure** .  
 + Then , to know how to recover data on "disabled" iPhone is necessary .  
   
+# F**k Apple!The problem may cause by hardware!  
+Wrong passcode problem may cause by the design of iPhone and NFC . If so your phone may only fix by hardware.  
+  
+> Because Apple really put security is highest priority. The NFC is reporting directly to CPU, the communication of CPU and NFC is encrypted.
+> If the NFC is not responding or somehow it failed to work, the CPU will tell the iOS to protect all the data by not letting anyone access the iOS.  
+  
+See here : https://www.iphone-repair.my/iphone/iphone-passcode-loop-fix/
+
 
 # Problem at present  
 ## Only a few "disabled" iOS-device can be re-enable by paid  
